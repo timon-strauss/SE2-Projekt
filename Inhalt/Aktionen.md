@@ -23,6 +23,10 @@
 
 - **A8**: User deaktivieren über I&B Aufruf
 
+## Übergang aktiv, inaktiv, entsendet -> Verstorben
+
+- **A8**: User deaktivieren über I&B Aufruf
+
 ## enter ehemalig
 
 - **A8**
